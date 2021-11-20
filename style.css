@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;500&display=swap');
+
+
+
+
+
+.logo{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.titleh1{
+    margin-top: 40px;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #999999;
+}
+
+.text-box{
+    margin-top: 50px;
+    border-radius: 25px;
+    border: none;
+    border: 1px solid #E4E6F3;
+    padding: 10px 15px;
+}
+
+.bouton{
+    background-color: #4D7BF3;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 70px;
+    margin-left: 20px;
+    border: none;
+}
+
+
+.bouton:hover{
+    background-color: #7095F5;
+}
+
+.img-dash{
+    width: 800px;
+    height: 500px;
+}
+
+
+.ison{
+    color: #507AE4;
+}
+
+.social-box {
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    font-size: 25px;
+    border: 1px solid #E4E6F3;
+    border-radius: 100px;
+    text-align: center;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+.social-box:hover{
+    background-color: #4D7AEA;
+    cursor: pointer;
+}
+
+.social-box:hover .ison{
+    color: white;
+}
+
+.social-box:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.25em; /* Adjusts for spacing */
+    margin-top: 0.25em;
+}
+
+.credit{
+    color: rgb(180, 180, 180);
+    text-align: center;
+    font-size: 15px;
+}
+
+.foott {
+    margin-top: 70px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.foott a{
+    color: hsl(228, 45%, 44%);
+}
