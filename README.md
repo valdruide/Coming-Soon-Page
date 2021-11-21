@@ -1,4 +1,4 @@
-# Frontend Mentor - Ping coming soon page
+# Coming soon page
 
 Réalisation d'une page Coming soon avec newsletter(JS)
 
