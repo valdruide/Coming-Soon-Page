@@ -1,4 +1,4 @@
-# Coming soon page
+# Coming soon page + Newsletter subscription
 
 Réalisation d'une page Coming soon avec newsletter(JS)
 
