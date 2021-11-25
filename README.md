@@ -3,10 +3,6 @@
 Réalisation d'une page Coming soon avec newsletter(JS)
 Script JS ==> Check if input is valid mail
 
-## À faire :
-
-    - Rendre le site responsive
-
 
 ## Overview
 
