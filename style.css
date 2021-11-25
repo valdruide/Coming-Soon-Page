@@ -98,23 +98,3 @@
     margin-top: 15px;
     visibility: hidden;
 }
-
-
-
-
-.box{
-    border: 6px solid white;
-    background-color: turquoise;
-    padding: 15px;
-    transition: .25s ease;
-}
-
-.reponse{
-    visibility: hidden;
-}
-
-.question-click{
-    background-color: red;
-    border: 6px solid blue;
-    border-radius: 100% ;
-}
