@@ -2,20 +2,22 @@
 
 
 
-
+*{
+    font-family: 'Libre Franklin', sans-serif;
+}
 
 .logo{
+    margin-top: 20px;
     text-align: center;
-    margin-top: 40px;
 }
 
 .titleh1{
     margin-top: 40px;
-    font-family: 'Libre Franklin', sans-serif;
     color: #999999;
 }
 
 .text-box{
+    width: 30vw;
     margin-top: 50px;
     border-radius: 25px;
     border: none;
@@ -28,7 +30,6 @@
     color: white;
     border-radius: 25px;
     padding: 10px 70px;
-    margin-left: 20px;
     border: none;
 }
 
@@ -38,8 +39,8 @@
 }
 
 .img-dash{
-    width: 800px;
-    height: 500px;
+    width: 60vw;
+    height: auto;
 }
 
 
@@ -91,4 +92,29 @@
 
 .foott a{
     color: hsl(228, 45%, 44%);
+}
+
+.invalidMail{
+    margin-top: 15px;
+    visibility: hidden;
+}
+
+
+
+
+.box{
+    border: 6px solid white;
+    background-color: turquoise;
+    padding: 15px;
+    transition: .25s ease;
+}
+
+.reponse{
+    visibility: hidden;
+}
+
+.question-click{
+    background-color: red;
+    border: 6px solid blue;
+    border-radius: 100% ;
 }
