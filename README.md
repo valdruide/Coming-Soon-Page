@@ -1,7 +1,7 @@
 # Coming soon page + Newsletter subscription
 
 Réalisation d'une page Coming soon avec newsletter(JS)
-Script JS ==> Check if input is valid mail
+Script JS ==> Check si l'input est bien une adresse mail (avec REGEX)
 
 
 ## Overview
@@ -15,7 +15,7 @@ Réalisation afin de perfectionner mon JS, Bootstrap et continuer d'apprendre à
 
 ### Link
 
-- Live Site URL: [Link](https://tristan-viard.alwaysdata.net/Comming-Soon/index.html)
+- Live Site URL: [Link](https://htmlpreview.github.io/?https://github.com/valdruide/Coming-Soon-Page/blob/main/index.html)
 
 ## Author
 
